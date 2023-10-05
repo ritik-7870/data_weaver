@@ -1,0 +1,9 @@
+.ReactModal__Content .ReactModal__Content--after-open {
+  width: 544px !important;
+  right: 50% !important;
+  left: 31% !important;
+}
+
+* {
+  /* overflow: hidden !important; */
+}
